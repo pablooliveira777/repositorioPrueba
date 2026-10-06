@@ -1,1 +1,1 @@
-Cambio de A en comun.txt
+Cambio de B en comun.txt despues de resolver conflicto
