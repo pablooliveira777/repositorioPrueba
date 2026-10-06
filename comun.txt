@@ -1,1 +1,1 @@
-Linea orignal para el ejercicio 3
+Cambio de B en comun.txt
