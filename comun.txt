@@ -1,1 +1,1 @@
-Cambio de A en A4
+Cambio de B en B4, conflicto resuelto
